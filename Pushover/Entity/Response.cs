@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace Pushover.Entities.Reponse
+namespace Pushover.Entity.Reponse
 {
     public class RateLimit
     {

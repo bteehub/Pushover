@@ -1,3 +1,3 @@
 # Pushover
 
-A simple and straight forward Pushover implementation
+A simple and straightforward Pushover implementation

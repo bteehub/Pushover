@@ -4,22 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
-    <Description>A simple and straight forwards Pushover implementation</Description>
+    <Description>A simple and straightforward Pushover implementation</Description>
     <Authors>btee</Authors>
     <PackageProjectUrl>https://github.com/bteehub/Pushover</PackageProjectUrl>
     <RepositoryUrl>https://github.com/bteehub/Pushover</RepositoryUrl>
-    <Version>1.0.1</Version>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Pushover.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>

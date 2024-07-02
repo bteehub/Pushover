@@ -1,4 +1,4 @@
-﻿using Pushover.Entities.Reponse;
+﻿using Pushover.Entity.Reponse;
 using System;
 using System.Linq;
 using System.Net.Http;
